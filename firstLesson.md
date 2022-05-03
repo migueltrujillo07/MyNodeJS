@@ -25,5 +25,29 @@ Notice that inside of our directory we can find the previous file, How to verify
 ```sh
 ls
 ```
-We'll see the file and directories inside of our main director
-We'll see the file and directories inside of our main directoryy
+We'll see the file and directories inside of our main directory
+
+We can use your favorite code editor, for this ocation we'll use vim and SublimeText, remenber use your the tool that you feel more confortable
+
+```sh
+vim HelloEveryone.js
+```
+ Inside we'll print the next message:
+
+```sh
+console.log("Hello Everyone I'll become an amazing developer! :D")
+```
+Now It's time to prove our firts code, to execute the previous code we use node:
+
+```sh
+node HelloEveryone.js 
+```
+
+You will see an output in your bash something like this:
+
+```sh
+Hello Everyone I'll become an amazing developer! :D
+```
+
+Congratulations!! You write your first program, In the next lesson we'll learn other interesthing topics and commands
+
