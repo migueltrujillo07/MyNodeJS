@@ -35,7 +35,7 @@ vim HelloEveryone.js
  Inside we'll print the next message:
 
 ```sh
-console.log("Hello Everyone I'll become an amazing developer! :D")
+console.log("Hello Everyone I will become an amazing developer! :D")
 ```
 Now It's time to prove our firts code, to execute the previous code we use node:
 
@@ -46,7 +46,7 @@ node HelloEveryone.js
 You will see an output in your bash something like this:
 
 ```sh
-Hello Everyone I'll become an amazing developer! :D
+Hello Everyone I will become an amazing developer! :D
 ```
 
 Congratulations!! You write your first program, In the next lesson we'll learn other interesthing topics and commands
